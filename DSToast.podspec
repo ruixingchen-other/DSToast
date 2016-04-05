@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.homepage         = "http://linfeng1009.gitcafe.io"  
   s.license          = 'MIT'  
   s.author           = { "大神" => "1057105719@qq.com" }  
-  s.source           = { :git => "https://github.com/ludaye123/DSToast.git", :tag => s.version.to_s }  
+  s.source           = { :git => "https://github.com/ruixingchen-other/DSToast.git", :tag => s.version.to_s }  
   
   s.platform     = :ios, '7.0'  
   s.ios.deployment_target = '7.0'  
